@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: shiro-jwt
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/study?useUnicode=true&characterEncoding=utf-8&serverTimezone=GMT%2B8
+    username: root
+    password: autumnli
+
+mybatis-plus:
+  type-aliases-package: com.autumnli.login.shirojwt.bean
+  mapper-locations: classpath:*.xml

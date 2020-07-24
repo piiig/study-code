@@ -41,7 +41,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6814a01a-51dc-48fb-a0df-d8165f0468f8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springsecurity-oauth2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springsecurity-oauth2/.idea/MyBatisCodeHelperDatasource.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springsecurity-oauth2/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springsecurity-oauth2/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springsecurity-oauth2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springsecurity-oauth2/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springsecurity-oauth2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springsecurity-oauth2/.idea/vcs.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +113,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595600449517</updated>
-      <workItem from="1595600455547" duration="2005000" />
+      <workItem from="1595600455547" duration="2348000" />
     </task>
     <servers />
   </component>
